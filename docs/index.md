@@ -2,6 +2,8 @@
 
 A working collection of **real FDE job postings**, organized so I can compare them. Every posting was checked on its employer's own job board on **2026-11-12**.
 
+**Research question:** What does a customer-facing technical job ask me to show, and what should my portfolio prove first? See [Two roles compared](/compare) for my answer and the decision it leads to.
+
 ## The role in three lines
 
 - FDEs are software engineers who **work directly with a customer**, learn the customer's problem, and build and ship the fix inside the customer's systems. [I1](/internships#i1), [F5](/full-time#f5)

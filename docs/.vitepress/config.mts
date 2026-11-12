@@ -8,6 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     nav: [
+      { text: 'Compare', link: '/compare' },
       { text: 'Internships', link: '/internships' },
       { text: 'Full-time', link: '/full-time' },
       { text: 'The work', link: '/role' },
@@ -26,6 +27,7 @@ export default defineConfig({
       {
         text: 'Findings',
         items: [
+          { text: 'Two roles compared', link: '/compare' },
           { text: 'What the role does', link: '/role' },
           { text: 'Skills employers ask for', link: '/skills' }
         ]
