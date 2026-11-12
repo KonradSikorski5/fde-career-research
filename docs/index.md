@@ -15,9 +15,17 @@ More: [What the role does](/role)
 | I want to… | Go to |
 |---|---|
 | See internships I could apply to | [Internships](/internships): 6 open postings |
+| Check if I'm eligible right now | [Can a current student apply?](/internships#can-a-current-student-apply) |
 | See entry-level and experienced full-time jobs | [Full-time](/full-time): 3 new-grad, 10 experienced |
 | Know which skills keep showing up | [Skills](/skills): count table + what to build |
 | Check where a claim came from | [Sources](/sources): every link, status, and check date |
+
+## Next steps
+
+- **No posting lists an application deadline.** Openings can close without notice, so apply early and re-check the link first.
+- Pick one or two postings that match your graduation year using the [eligibility table](/internships#can-a-current-student-apply).
+- Start one portfolio project from [What to build](/skills#what-to-build-to-show-these-skills), the same projects these postings ask you to show.
+- Compare notes with your class partner. This site is a starting point, not a substitute for your own review.
 
 ## How to read this site
 
