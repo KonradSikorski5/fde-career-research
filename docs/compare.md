@@ -46,10 +46,11 @@ I'm not choosing one yet. Both share the same first skill to prove.
 |---|---|
 | **Finding** | Both postings ask for explaining a problem step by step and finding its cause (evidence above). |
 | **Decision** | My first portfolio piece is a help-ticket-style case study of one real fix from my [Brand Studio repo](https://github.com/KonradSikorski5/is117-brand-studio-ks2334): problem, steps to reproduce, fix, and how I checked it. |
+| **Done so far** | The write-up exists: [Help ticket: can keyboard users see which size is selected?](https://github.com/KonradSikorski5/is117-brand-studio-ks2334/blob/main/docs/help-ticket-size-focus.md) (written Nov 12, 2026). |
 | **Check (planned, not yet done)** | A classmate follows only my written steps. If they get the same result without asking me questions, the write-up passes. |
 
 ::: warning Planned, not observed
-The check above hasn't happened yet. I'll record the actual result here after it runs.
+The classmate check hasn't happened yet. The result will be recorded in the help ticket's "Reviewer retry" table.
 :::
 
 ## Course connections
