@@ -57,3 +57,7 @@ The classmate check hasn't happened yet. The result will be recorded in the help
 
 - **IS117 Brand Studio:** I already used a GitHub issue, a pull request, and a written verification record. That's the same pattern as EliseAI's ticket workflow.
 - **IS117 T-shirt research:** I compared three real brands, then chose who the shirt is for. Legora asks people to understand "the problem behind a request."
+
+## AI help
+
+I used **Claude** (Anthropic) to find the job postings, check them against each employer's own job board, organize my notes, and build this site. I opened both job pages myself and checked the facts.
