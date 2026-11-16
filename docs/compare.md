@@ -47,10 +47,10 @@ I'm not choosing one yet. Both share the same first skill to prove.
 | **Finding** | Both postings ask for explaining a problem step by step and finding its cause (evidence above). |
 | **Decision** | My first portfolio piece is a help-ticket-style case study of one real fix from my [Brand Studio repo](https://github.com/KonradSikorski5/is117-brand-studio-ks2334): problem, steps to reproduce, fix, and how I checked it. |
 | **Done so far** | The write-up exists: [Help ticket: can keyboard users see which size is selected?](https://github.com/KonradSikorski5/is117-brand-studio-ks2334/blob/main/docs/help-ticket-size-focus.md) (written Nov 12, 2026). |
-| **Check (planned, not yet done)** | A classmate follows only my written steps. If they get the same result without asking me questions, the write-up passes. |
+| **Check (done Nov 15)** | A classmate follows only my written steps. **Result:** Safwaan followed the help ticket on his own and recorded "Yes, worked — keyboard focus ring is clearly visible on all size options" ([PR #8](https://github.com/KonradSikorski5/is117-brand-studio-ks2334/pull/8)). The write-up passed. |
 
-::: warning Planned, not observed
-The classmate check hasn't happened yet. The result will be recorded in the help ticket's "Reviewer retry" table.
+::: tip Observed result
+The classmate check was done on Nov 15 and passed. See the help ticket's "Reviewer retry" table.
 :::
 
 ## Course connections

@@ -57,7 +57,7 @@ Grouped by what each posting says about graduation or class year.
 
 - **Work:** deploy and operate software in production; monitoring, alerting, configuration management, upgrades; automate manual runbooks.
 - **Requires:** active US security clearance or eligibility to get one before starting; strong proficiency in a language (Python, Java, Go, C++, TS/JS); graduating 2028.
-- **Notes:** the infrastructure/DevOps flavor of FDE.
+- **Notes:** the infrastructure/DevOps flavor of FDE. **Re-check 2026-11-16:** the page still opens with an Apply button, but the posting no longer appears in Palantir's public job list, so it may be closing.
 
 ### I5 · Netic · FDE Intern {#i5}
 **Netic — Forward Deployed Engineer (FDE), Intern, 2026–2027** · San Francisco, CA · [Original posting](https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c)
